@@ -1,5 +1,13 @@
 # Joymon
 
+<a href="/"> 
+    <img alt="App logos" src="icons/icons.svg" height="20"> 
+</a>
+by 
+<a href="https://pryt.space">
+<img alt="Liubomyr Pryt" src="https://pryt.space/faviconv5.svg" height="25">
+</a>
+
 A simple alternative to system tools for monitoring controller trigger input.
 
 It could used on a second monitor during gaming sessions to monitor faulty triggers.
@@ -7,11 +15,14 @@ It could used on a second monitor during gaming sessions to monitor faulty trigg
 Made both for GUI fans and Terminal enjoyers.
 
 ##### GUI
-![An screenshot of the App GUI](/images/gui.png)
+| GUI | CLI |
+|-|-|
+| ![An screenshot of the App GUI](/images/gui.png) | ![An screenshot of the App CLI](/images/tui.png)
+
 
 
 ##### CLI
-![An screenshot of the App CLI](/images/tui.png)
+
 
 ## Requirements
 

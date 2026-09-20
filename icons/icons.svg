@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="5000"
-   height="5000"
-   viewBox="0 0 1322.9166 1322.9167"
+   width="2336.998"
+   height="530.00006"
+   viewBox="0 0 618.33069 140.22919"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
@@ -33,7 +33,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="115"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-2-5" />
+     inkscape:current-layer="layer1-2" />
   <defs
      id="defs1">
     <linearGradient
@@ -95,16 +95,6 @@
        apply_with_radius="true"
        only_selected="false"
        hide_knots="false" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch11"
-       id="linearGradient15"
-       gradientUnits="userSpaceOnUse"
-       x1="614.16251"
-       y1="649.4779"
-       x2="699.12153"
-       y2="649.4779"
-       gradientTransform="translate(-477.38746,-503.81752)" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect1-4-2"
@@ -122,6 +112,16 @@
        apply_with_radius="true"
        only_selected="false"
        hide_knots="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch11"
+       id="linearGradient4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-591.34356,-591.34374)"
+       x1="614.16254"
+       y1="649.47791"
+       x2="699.12152"
+       y2="649.47791" />
   </defs>
   <g
      inkscape:label="control"
@@ -139,24 +139,24 @@
        d="m 40,0 h 72.29201 a 20,20 45 0 1 20,20 V 62.291672 A 70,70 135 0 1 62.292007,132.29167 H 20 a 20,20 45 0 1 -20,-20 V 40 A 40,40 135 0 1 40,0 Z"
        inkscape:path-effect="#path-effect1-4-2"
        ry="0"
-       transform="translate(879.05943,600.19061)" />
+       transform="translate(330.54565,512.66439)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.0361px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';writing-mode:lr-tb;direction:ltr;display:inline;fill:#6990e5;fill-opacity:1;stroke:#110b22;stroke-width:4.23333;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
-       x="898.96613"
-       y="676.18073"
+       x="350.45233"
+       y="588.65448"
        id="text4-5-6"><tspan
          sodipodi:role="line"
          id="tspan4-5-8"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:0.989726;stroke:#110b22;stroke-width:4.23333;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
-         x="898.96613"
-         y="676.18073">JM</tspan></text>
+         x="350.45233"
+         y="588.65448">JM</tspan></text>
   </g>
   <g
      inkscape:label="v3"
      inkscape:groupmode="layer"
      id="layer1-2-5"
-     transform="translate(407.27272,-4.8781141)">
+     transform="translate(407.27272,-4.8781096)">
     <path
        style="fill:#ffaffc;fill-opacity:1;stroke:#000000;stroke-width:7.9375;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        id="rect1-4-2"
@@ -168,25 +168,24 @@
        d="m 40,0 h 72.29201 a 20,20 45 0 1 20,20 V 62.291672 A 70,70 135 0 1 62.292007,132.29167 H 20 a 20,20 45 0 1 -20,-20 V 40 A 40,40 135 0 1 40,0 Z"
        inkscape:path-effect="#path-effect1-4-1"
        ry="0"
-       transform="translate(319.09137,96.373087)" />
+       transform="translate(-84.56985,8.8468596)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.0361px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';writing-mode:lr-tb;direction:ltr;display:inline;fill:#6990e5;fill-opacity:1;stroke:#110b22;stroke-width:4.23333;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
-       x="338.99805"
-       y="172.3632"
+       x="-64.663177"
+       y="84.836975"
        id="text4-5-7"><tspan
          sodipodi:role="line"
          id="tspan4-5-6"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:0.989726;stroke:#110b22;stroke-width:4.23333;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
-         x="338.99805"
-         y="172.3632">JM</tspan></text>
+         x="-64.663177"
+         y="84.836975">JM</tspan></text>
   </g>
   <g
      inkscape:label="v2"
      inkscape:groupmode="layer"
      id="layer1-2"
-     transform="translate(304.21962)"
-     sodipodi:insensitive="true">
+     transform="translate(304.21962)">
     <path
        style="fill:#8baffc;fill-opacity:1;stroke:#000000;stroke-width:7.9375;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        id="rect1-4"
@@ -198,24 +197,23 @@
        d="m 40,0 h 72.29201 a 20,20 45 0 1 20,20 V 62.291672 A 70,70 135 0 1 62.292007,132.29167 H 20 a 20,20 45 0 1 -20,-20 V 40 A 40,40 135 0 1 40,0 Z"
        inkscape:path-effect="#path-effect1-4"
        ry="0"
-       transform="translate(117.92485,91.494973)" />
+       transform="translate(-140.88381,3.9687486)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.0361px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';writing-mode:lr-tb;direction:ltr;display:inline;fill:#6990e5;fill-opacity:1;stroke:#110b22;stroke-width:4.23333;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
-       x="137.83153"
-       y="167.48509"
+       x="-120.97714"
+       y="79.95887"
        id="text4-5"><tspan
          sodipodi:role="line"
          id="tspan4-5"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:0.989726;stroke:#110b22;stroke-width:4.23333;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
-         x="137.83153"
-         y="167.48509">JM</tspan></text>
+         x="-120.97714"
+         y="79.95887">JM</tspan></text>
   </g>
   <g
      inkscape:label="v1"
      inkscape:groupmode="layer"
-     id="layer1"
-     sodipodi:insensitive="true">
+     id="layer1">
     <path
        style="fill:#073781;fill-opacity:0.989726;stroke:#000000;stroke-width:7.9375;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        id="rect1"
@@ -227,17 +225,17 @@
        d="m 40,0 h 72.29201 a 20,20 45 0 1 20,20 V 62.291672 A 70,70 135 0 1 62.292007,132.29167 H 20 a 20,20 45 0 1 -20,-20 V 40 A 40,40 135 0 1 40,0 Z"
        inkscape:path-effect="#path-effect1"
        ry="0"
-       transform="translate(117.92485,91.494973)" />
+       transform="translate(3.96875,3.96875)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.0361px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient15);fill-opacity:1;stroke:#110b22;stroke-width:4.23333;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
-       x="137.83153"
-       y="167.48509"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.0361px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient4);fill-opacity:1;stroke:#110b22;stroke-width:4.23333;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
+       x="23.875427"
+       y="79.95887"
        id="text4"><tspan
          sodipodi:role="line"
          id="tspan4"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:url(#linearGradient15);fill-opacity:1;stroke:#110b22;stroke-width:4.23333;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
-         x="137.83153"
-         y="167.48509">JM</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:url(#linearGradient4);fill-opacity:1;stroke:#110b22;stroke-width:4.23333;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
+         x="23.875427"
+         y="79.95887">JM</tspan></text>
   </g>
 </svg>

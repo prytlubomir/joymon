@@ -1,8 +1,7 @@
 # Joymon
 
-| | | |
-|-|-|-|
 | <a href="/"> <img alt="App logos" src="icons/icons.svg" height="20"> </a> | <sup>by</sup> | <a href="https://pryt.space"> <img alt="Liubomyr Pryt" src="https://pryt.space/faviconv5.svg" height="20"> </a> |
+|-|-|-|
 
 A simple alternative to system tools for monitoring controller trigger input.
 

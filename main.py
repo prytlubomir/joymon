@@ -60,7 +60,7 @@ def tui() -> None:
 def main():
     if '--gui' in sys.argv:
         gui.start()
-    elif '--tui' in sys.argv:
+    elif '--cli' in sys.argv:
         tui()
     else:
         gui.start()

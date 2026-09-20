@@ -9,15 +9,9 @@ It could used on a second monitor during gaming sessions to monitor faulty trigg
 
 Made both for GUI fans and Terminal enjoyers.
 
-##### GUI
 | GUI | CLI |
 |-|-|
 | ![An screenshot of the App GUI](/images/gui.png) | ![An screenshot of the App CLI](/images/tui.png)
-
-
-
-##### CLI
-
 
 ## Requirements
 

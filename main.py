@@ -9,11 +9,10 @@ import gui
 def trigger_listener(index, handler, *args, delay=0, select=None, **kwargs):
     print('listener started')
     while True:
-
-        if not xi.get_connected()[index]:
-            continue
         
         time.sleep(delay)
+        if not xi.get_connected()[index]:
+            continue
         values = xi.get_trigger_values(xi.get_state(index))
         if select is not None:
             result = values[select]

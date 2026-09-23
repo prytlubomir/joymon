@@ -1,7 +1,10 @@
 from threading import Thread
 
-from tkinter import VERTICAL, Tk
+from tkinter import VERTICAL, Tk, PhotoImage
 from tkinter.ttk import Label, Progressbar, Style
+
+import sys
+import os.path
 
 import main
 
@@ -21,6 +24,11 @@ def setup_gui():
     root = Tk()
     root.title("Joymon")
     root.wm_resizable(False, False)
+    project_dir = os.path.dirname(sys.argv[0])
+    rel_icon_path = "icons/icons_v3.png"
+    full_icon_path = os.path.join(project_dir, rel_icon_path)
+    icon = PhotoImage(file=full_icon_path)
+    root.wm_iconphoto(True, icon)
     root.configure(background="black")
         
     

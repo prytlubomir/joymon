@@ -7,20 +7,18 @@ import gui
 
 
 def trigger_listener(index, handler, *args, delay=0, select=None, **kwargs):
-    print('listener started')
     while True:
-        
         time.sleep(delay)
+        
         if not xi.get_connected()[index]:
             continue
+
         values = xi.get_trigger_values(xi.get_state(index))
         if select is not None:
             result = values[select]
         else:
             result = values
         handler(result, *args, **kwargs)
-        print('run', result)
-    print('listener ended')
 
 
 def slowprint(*args, d=0.05) -> None:
